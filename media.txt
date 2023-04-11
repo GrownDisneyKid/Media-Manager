@@ -1,0 +1,5 @@
+// java media file
+
+media[][] = null;
+
+System.out.print("There is not media loaded");
